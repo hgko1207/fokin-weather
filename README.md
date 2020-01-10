@@ -15,6 +15,7 @@ Learning React Native by Building a Fokin Weather App
 - Linear Gradient
 
   > expo install expo-linear-gradient
+
   > https://docs.expo.io/versions/v36.0.0/sdk/linear-gradient/#__next
 
   > https://uigradients.com
